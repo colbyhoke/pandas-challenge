@@ -13,7 +13,7 @@ This Jupyter Notebook takes in CSVs about students, their grades, and their scho
 <br>--------------------------------------------------------------------------------------------
 
 ### District Summary
-<br>Create a high level snapshot (in table form) of the district's key metrics, including:
+Create a high level snapshot (in table form) of the district's key metrics, including:
 
 * Total Schools
 * Total Students
@@ -25,7 +25,7 @@ This Jupyter Notebook takes in CSVs about students, their grades, and their scho
 * % Overall Passing (The percentage of students that passed math and reading.)
 
 ## School Summary
-<br>Create an overview table that summarizes key metrics about each school, including:
+Create an overview table that summarizes key metrics about each school, including:
 
 * School Name
 * School Type
@@ -39,7 +39,7 @@ This Jupyter Notebook takes in CSVs about students, their grades, and their scho
 * % Overall Passing (The percentage of students that passed math and reading.)
 
 ## Top Performing Schools (By % Overall Passing)
-<br>Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
+Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
 
 * School Name
 * School Type
@@ -55,7 +55,7 @@ This Jupyter Notebook takes in CSVs about students, their grades, and their scho
 ### Bottom Performing Schools (By % Overall Passing)
 <br>Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
-### Math Scores by Grade**
+### Math Scores by Grade
 <br>Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ### Reading Scores by Grade
