@@ -1,14 +1,13 @@
 # pandas-challenge
-##Challenge chosen: PyCitySchools 
-<br>This Jupyter Notebook takes in CSVs about students, their grades, and their schools in a district and provides reporting.
-<br>CSVs are:
+## Challenge chosen: PyCitySchools \
+This Jupyter Notebook takes in CSVs about students, their grades, and their schools in a district and provides reporting. CSVs are:
 * PyCitySchools/Resources/students_complete.csv
 * PyCitySchools/Resources/schools_complete.csv
 
 #--------------------------------------------------------------------------------------------
-OBSERVATIONS:
-You must include a written description of at least two observable trends based on the data.
-1: 
+OBSERVATIONS: \
+You must include a written description of at least two observable trends based on the data. \
+ 
 
 
 #--------------------------------------------------------------------------------------------
