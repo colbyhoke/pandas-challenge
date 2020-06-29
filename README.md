@@ -1,9 +1,9 @@
 # pandas-challenge
-Challenge chosen: PyCitySchools 
-This Jupyter Notebook takes in CSVs about students, their grades, and their schools in a district and provides reporting.
-CSVs are:
-PyCitySchools/Resources/students_complete.csv
-PyCitySchools/Resources/schools_complete.csv
+##Challenge chosen: PyCitySchools 
+<br>This Jupyter Notebook takes in CSVs about students, their grades, and their schools in a district and provides reporting.
+<br>CSVs are:
+* PyCitySchools/Resources/students_complete.csv
+* PyCitySchools/Resources/schools_complete.csv
 
 #--------------------------------------------------------------------------------------------
 OBSERVATIONS:
