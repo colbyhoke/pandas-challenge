@@ -11,15 +11,15 @@ Analysis file:
 <br>**OBSERVATIONS:**
 1. I found it interesting that charter schools wholly outperformed district schools
 1. It was also interesting to see that per-student budgets don't translate to better scores. In fact, in every case, the budget per student was the opposite of what I initially expected.
-1. This made me curious, so I added another analysis that broke down type of school by per-student budget and found that, on average, charter schools had less budget per student than district schools. ($600 vs $644, respectively).
+1. This made me curious, so I added another analysis that broke down type of school by per-student budget and found that, on average, charter schools had less budget per student than district schools. ($599.50 vs $643.57, respectively).
 1. Based on all of this data, I have to conclude that there are other factors at play here beyond a crude overall budget-to-student relationship. For example, we don't know anything about teachers, class size, or attendance. And we don't know anything about the students' background, like household income, number of parents present, amount of out-of-school tutoring, demographics, etc. There's a lot going on when you talk about schools, grades, and budgets that aren't captured in the limited data we have here.
 
 <br>--------------------------------------------------------------------------------------------
-<br>**Reports in file:**
+
+## Reports in file:
 
 ### District Summary
-Create a high level snapshot (in table form) of the district's key metrics, including:
-
+A high-level snapshot of the district's key metrics, including:
 * Total Schools
 * Total Students
 * Total Budget
@@ -30,8 +30,7 @@ Create a high level snapshot (in table form) of the district's key metrics, incl
 * % Overall Passing (The percentage of students that passed math and reading.)
 
 ### School Summary
-Create an overview table that summarizes key metrics about each school, including:
-
+A summary of key metrics about each school, including:
 * School Name
 * School Type
 * Total Students
@@ -44,8 +43,7 @@ Create an overview table that summarizes key metrics about each school, includin
 * % Overall Passing (The percentage of students that passed math and reading.)
 
 ### Top Performing Schools (By % Overall Passing)
-Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
-
+Top 5 performing schools based on % Overall Passing. Include:
 * School Name
 * School Type
 * Total Students
@@ -58,17 +56,17 @@ Create a table that highlights the top 5 performing schools based on % Overall P
 * % Overall Passing (The percentage of students that passed math and reading.)
 
 ### Bottom Performing Schools (By % Overall Passing)
-Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
+Bottom 5 performing schools based on % Overall Passing.
+This includes all of the same metrics as above.
 
 ### Math Scores by Grade
-Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+Average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ### Reading Scores by Grade
-Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+Average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ### Scores by School Spending
-Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
-
+School performance based on average Spending Ranges (Per Student). Data is broken down by ranges (<$584, $585-629, $630-644, and $645-675).
 * Average Math Score
 * Average Reading Score
 * % Passing Math (The percentage of students that passed math.)
@@ -76,10 +74,10 @@ Create a table that breaks down school performances based on average Spending Ra
 * % Overall Passing (The percentage of students that passed math and reading.)
 
 ### Scores by School Size
-Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+School performance based on school size (Small, Medium, Large), (<1000, 1000-2000, and 2000-3000>)
 
 ### Scores by School Type
-Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+School performance based on school type (Charter vs. District).
 
 ### Extra analysis: Per-student budget by school type
-Looked at the budget available per student as it maps to charter vs. district schools
+Budgets per student based on school type (Charter vs. District).
