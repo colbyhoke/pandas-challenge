@@ -10,6 +10,7 @@ This Jupyter Notebook takes in CSVs about students, their grades, and their scho
 1. Observation 1
 1. Observation 2
 1. Observation 3
+
 <br>--------------------------------------------------------------------------------------------
 <br>**Reports in PyCitySchools/04-Pandas_Homework_PyCitySchools_PyCitySchools_ch.ipynb file:**
 
