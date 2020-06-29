@@ -9,12 +9,11 @@ This Jupyter Notebook takes in CSVs about students, their grades, and their scho
 <br>You must include a written description of at least two observable trends based on the data. 
  
 <br>--------------------------------------------------------------------------------------------
-<br>Report in PyCitySchools/04-Pandas_Homework_PyCitySchools_PyCitySchools_ch.ipynb file:
+<br>**Reports in PyCitySchools/04-Pandas_Homework_PyCitySchools_PyCitySchools_ch.ipynb file:**
 <br>--------------------------------------------------------------------------------------------
 
 ### District Summary
 Create a high level snapshot (in table form) of the district's key metrics, including:
-
 * Total Schools
 * Total Students
 * Total Budget
