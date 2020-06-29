@@ -4,16 +4,18 @@ This Jupyter Notebook takes in CSVs about students, their grades, and their scho
 * PyCitySchools/Resources/students_complete.csv
 * PyCitySchools/Resources/schools_complete.csv
 
+Analysis file:
+* PyCitySchools/04-Pandas_Homework_PyCitySchools_PyCitySchools_ch.ipynb
+
 <br>--------------------------------------------------------------------------------------------
 <br>**OBSERVATIONS:**
-<br>You must include a written description of at least two observable trends based on the data. 
 1. I found it interesting that charter schools wholly outperformed district schools
 1. It was also interesting to see that per-student budgets don't translate to better scores. In fact, in every case, the budget per student was the opposite of what I initially expected.
 1. This made me curious, so I added another analysis that broke down type of school by per-student budget and found that, on average, charter schools had less budget per student than district schools. ($600 vs $644, respectively).
 1. Based on all of this data, I have to conclude that there are other factors at play here beyond a crude overall budget-to-student relationship. For example, we don't know anything about teachers, class size, or attendance. And we don't know anything about the students' background, like household income, number of parents present, amount of out-of-school tutoring, demographics, etc. There's a lot going on when you talk about schools, grades, and budgets that aren't captured in the limited data we have here.
 
 <br>--------------------------------------------------------------------------------------------
-<br>**Reports in PyCitySchools/04-Pandas_Homework_PyCitySchools_PyCitySchools_ch.ipynb file:**
+<br>**Reports in file:**
 
 ### District Summary
 Create a high level snapshot (in table form) of the district's key metrics, including:
@@ -78,3 +80,6 @@ Repeat the above breakdown, but this time group schools based on a reasonable ap
 
 ### Scores by School Type
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+
+### Extra analysis: Per-student budget by school type
+Looked at the budget available per student as it maps to charter vs. district schools
