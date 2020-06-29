@@ -1,30 +1,30 @@
 # pandas-challenge
-## Challenge chosen: PyCitySchools \
+## Challenge chosen: PyCitySchools
 This Jupyter Notebook takes in CSVs about students, their grades, and their schools in a district and provides reporting. CSVs are:
 * PyCitySchools/Resources/students_complete.csv
 * PyCitySchools/Resources/schools_complete.csv
 
-#--------------------------------------------------------------------------------------------
-OBSERVATIONS: \
-You must include a written description of at least two observable trends based on the data. \
+<br>--------------------------------------------------------------------------------------------
+<br>**OBSERVATIONS:**
+<br>You must include a written description of at least two observable trends based on the data. 
  
+<br>--------------------------------------------------------------------------------------------
+<br>Report in PyCitySchools/04-Pandas_Homework_PyCitySchools_PyCitySchools_ch.ipynb file:
+<br>--------------------------------------------------------------------------------------------
 
+## District Summary
+<br>Create a high level snapshot (in table form) of the district's key metrics, including:
 
-#--------------------------------------------------------------------------------------------
-#Report in PyCitySchools/04-Pandas_Homework_PyCitySchools_PyCitySchools_ch.ipynb file:
-#--------------------------------------------------------------------------------------------
-District Summary
-Create a high level snapshot (in table form) of the district's key metrics, including:
-    Total Schools
-    Total Students
-    Total Budget
-    Average Math Score
-    Average Reading Score
-    % Passing Math (The percentage of students that passed math.)
-    % Passing Reading (The percentage of students that passed reading.)
-    % Overall Passing (The percentage of students that passed math and reading.)
+* Total Schools
+* Total Students
+* Total Budget
+* Average Math Score
+* Average Reading Score
+* % Passing Math (The percentage of students that passed math.)
+* % Passing Reading (The percentage of students that passed reading.)
+* % Overall Passing (The percentage of students that passed math and reading.)
 
-School Summary
+## School Summary
 Create an overview table that summarizes key metrics about each school, including:
     School Name
     School Type
